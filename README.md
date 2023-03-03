@@ -1,2 +1,2 @@
 # 100 Days Of Python
-This repo contains the code I am going to write to learn the Python language under the program 100 Days of Python by Angela Vu on Udemy
+This repo contains the code I am going to write to learn the Python language under the program [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) by [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) on Udemy
